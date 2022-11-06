@@ -1,2 +1,2 @@
 # HTML-Elements-List-by-Alec-Gargett
-HTML Elements List (with examples for text elements)
+HTML elements list (with examples for text elements)
